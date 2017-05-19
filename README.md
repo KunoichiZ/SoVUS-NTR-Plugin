@@ -15,7 +15,7 @@
 * Gold Coin x996 v1.0
 * Silver Coin x9984 v1.0
 * Bookmark does not disappear v1.0
-* Get 100 Exp (START+UP: ON; START+DOWN: OFF) v1.0
+* Get 100 Exp After Battling Enemy (START+UP: ON; START+DOWN: OFF) v1.0
 * Able to control enemy v1.0
 * Infinite Movement v1.0
 * Able to trade items with enemy v1.0
