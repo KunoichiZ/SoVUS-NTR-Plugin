@@ -1,0 +1,2 @@
+[Able to trade items with enemy]
+00333DDC E1500000

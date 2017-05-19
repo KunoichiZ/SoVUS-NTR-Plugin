@@ -1,0 +1,7 @@
+[Change Starting Positions of Anyone in Preparations Menu (including enemies)]
+002F96EC E1500000
+002F96FC EA000007
+002F9730 E3A00001
+00307754 E3100B02
+003077BC E3100B02
+{Enemy's danger area view  button is change from A to Y}
