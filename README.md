@@ -1,4 +1,5 @@
-# Fire Emblem Echoes: Shadows of Valentia USA NTR Plugin
+# Fire Emblem Echoes: Shadows of Valentia USA NTR Plugin for v1.0
+## DO NOT UPDATE IF YOU WISH TO USE THIS PLUGIN
 
 ## Instructions
 * Back up your save files with JKSM first before attempting to use the cheats.
