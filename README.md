@@ -37,7 +37,7 @@
 * On Map Can Teleport v1.0
 * All Support Rank A v1.0
 * Can get both Dean and Sonya v1.0
-* --------------------------------
+--------------------------------
 * Change casual mode v1.1
 * Change classic mode v1.1
 * Change normal difficulty v1.1
