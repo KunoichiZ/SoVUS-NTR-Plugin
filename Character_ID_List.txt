@@ -1,0 +1,303 @@
+0000: Unknown
+0001: Alm
+0002: Lukas
+0003: Gray
+0004: Tobin
+0005: Kliff
+0006: Silque
+0007: Clair
+0008: Clive
+0009: Forsyth
+000A: Python
+000B: Luthier
+000C: Mathilda
+000D: Delthea
+000E: Tatiana
+000F: Zeke
+0010: Mycen
+0011: Faye
+0012: Celica
+0013: Mae
+0014: Boey
+0015: Genny
+0016: Saber
+0017: Valbar
+0018: Kamui
+0019: Leon
+001A: Palla
+001B: Catria
+001C: Atlas
+001D: Jesse
+001E: Sonya
+001F: Deen
+0020: Est
+0021: Nomah
+0022: Conrad
+0023: Brigand Boss
+0024: Desaix
+0025: Slayde
+0026: Barth
+0027: Zakson
+0028: Desaix
+0029: Lawson
+002A: Gazelle
+002B: Tatarrah
+002C: Delthea
+002D: Fernand
+002E: Berkut
+002F: Fernand
+0030: Garth
+0031: Wolff
+0032: Deen
+0033: Sonya
+0034: Grieth
+0035: Blake
+0036: Mikhail
+0037: (Gold Knight)
+0038: Xaizor
+0039: Marla
+003A: Nuibaba
+003B: Zeke
+003C: Jerome
+003D: Magnus
+003E: Hestia
+003F: Mueller
+0040: Rudolf
+0041: Berkut
+0042: Fernand
+0043: Slayde
+0044: Garcia
+0045: Dolth
+0046: Jamil
+0047: Jedah
+0048: Duma
+0049: Aurum
+004A: Argentum
+004B: Gham
+004C: Cerberus
+004D: Naberius
+004E: Hades
+004F: Berkut
+0050: Rinea
+0051: Berkut
+0052: Rinea
+0053: Marla
+0054: Hestia
+0055: Alm's or Celica's Army(Mila's Servant)
+0056: Alm's or Celica's Army(Doma's Apostle)
+0057: Alm's or Celica's Army(Dracul)
+0058: Alm's or Celica's Army(Titan)
+0059: Alm's or Celica's Army(Garuda)
+005A: Alm's or Celica's Army(Guardian)
+005B: Alm's or Celica's Army(Vestal)
+005C: Alm's or Celica's Army(Fafnir)
+005D: Alm's or Celica's Army(Dagon)
+005E: Alm's or Celica's Army(Balor)
+005F: Alm's or Celica's Army(Deimos)
+0060: Alm's or Celica's Army(Fire Dragon)
+0061: The Creation
+0062: Alm's or Celica's Army(Soldier)
+0063: Alm's or Celica's Army(Revenant)
+0064: Alm's or Celica's Army(Bonewalker)
+0065: Alm's or Celica's Army(Gargoyle)
+0066: Alm's or Celica's Army(Necrodragon)
+0067: Alm's or Celica's Army(Mogall)
+0068: Alm's or Celica's Army(Witch)
+0069: Alm's or Celica's Army(Cavalier)
+006A: Alm's or Celica's Army(Knight)
+006B: Alm's or Celica's Army(Paladin)
+006C: Alm's or Celica's Army(Necrodragon)
+006D: Alm's or Celica's Army(White Dragon)
+006E: Alm's or Celica's Army(Soldier)
+006F: Alm's or Celica's Army(Gold Knight)
+0070: Alm's or Celica's Army(Mercenary)
+0071: Alm's or Celica's Army(Myrmidon)
+0072: Alm's or Celica's Army(Dread Fighter)
+0073: Alm's or Celica's Army(Revenant)
+0074: Alm's or Celica's Army(Bonewalker)
+0075: Alm's or Celica's Army(Lich)
+0076: Alm's or Celica's Army(Gargoyle)
+0077: Alm's or Celica's Army(Deathgoyle)
+0078: Alm's or Celica's Army(Entombed)
+0079: Alm's or Celica's Army(Mogall)
+007A: Alm's or Celica's Army(Fiend)
+007B: Alm's or Celica's Army(Archer)
+007C: Alm's or Celica's Army(Sniper)
+007D: Alm's or Celica's Army(Brigand)
+007E: Alm's or Celica's Army(Arcanist)
+007F: Alm's or Celica's Army(Arcanist)
+0080: Alm's or Celica's Army(Arcanist)
+0081: Alm's or Celica's Army(Arcanist)
+0082: Alm's or Celica's Army(Arcanist)
+0083: Alm's or Celica's Army(Witch)
+0084: Alm's or Celica's Army(Witch)
+0085: Alm's or Celica's Army(Witch)
+0086: Alm's or Celica's Army(Witch)
+0087: Alm's or Celica's Army(Cantor)
+0088: Alm's or Celica's Army(Cantor)
+0089: Alm's or Celica's Army(Cantor)
+008A: Alm's or Celica's Army(Cantor)
+008B: Alm's or Celica's Army(Cantor)
+008C: Alm's or Celica's Army(Cantor)
+008D: Alm's or Celica's Army(Cantor)
+008E: Alm's or Celica's Army(Cantor)
+008F: Alm's or Celica's Army(Cantor)
+0090: Alm's or Celica's Army(Cantor)
+0091: Alm's or Celica's Army(Cantor)
+0092: Alm's or Celica's Army(Cantor)
+0093: Alm's or Celica's Army(Cantor)
+0094: Alm's or Celica's Army(Cantor)
+0095: Alm's or Celica's Army(Bow Knight)
+0096: Alm's or Celica's Army(Fighter)
+0097: Alm's or Celica's Army(Baron)
+0098: Alm's or Celica's Army(Hero)
+0099: Alm's or Celica's Army(Priestess)
+009A: Illusion(Fighter)
+009B: Illusion(Priestess)
+009C: Illusion(Villager)
+009D: Illusion(Cavalier)
+009E: Illusion(Paladin)
+009F: Illusion(Gold Knight)
+00A0: Illusion(Soldier)
+00A1: Illusion(Knight)
+00A2: Illusion(Baron)
+00A3: Illusion(Fiend)
+00A4: Illusion(Brigand)
+00A5: Illusion(Mercenary)
+00A6: Illusion(Myrmidon)
+00A7: Illusion(Dread Fighter)
+00A8: Illusion(Archer)
+00A9: Illusion(Sniper)
+00AA: Illusion(Bow Knight)
+00AB: Illusion(Fighter)
+00AC: Illusion(Hero)
+00AD: Illusion(Mage)
+00AE: Illusion(Sage)
+00AF: Illusion(Pegasus Knight)
+00B0: Illusion(Falcon Knight)
+00B1: Illusion(Cleric)
+00B2: Illusion(Saint)
+00B3: Illusion(Mage)
+00B4: Illusion(Priestess)
+00B5: Illusion(Priestess)
+00B6: Illusion(Princess)
+00B7: Illusion(Arcanist)
+00B8: Illusion(Cantor)
+00B9: Illusion(Witch)
+00BA: Illusion(Revenant)
+00BB: Illusion(Entombed)
+00BC: Illusion(Bonewalker)
+00BD: Illusion(Lich)
+00BE: Illusion(Gargoyle)
+00BF: Illusion(Deathgoyle)
+00C0: Illusion(Necrodragon)
+00C1: Illusion(White Dragon)
+00C2: Illusion(Mogall)
+00C3: Alm(Boy)
+00C4: Celica(Girl)
+00C5: Gray(Boy)
+00C6: Tobin(Boy)
+00C7: Kliff(Boy)
+00C8: Faye(Girl)
+00C9: Mycen
+00CA: Slayde
+00CB: Alm's or Celica's Army(Cavalier)
+00CC: Alm's or Celica's Army(Soldier)
+00CD: (Ship)
+00CE: (Ship)
+00CF: Alm's or Celica's Army(Archer)
+00D0: Alm's or Celica's Army(Archer)
+00D1: Masked Knight
+00D2: Alm's or Celica's Army(Mercenary)
+00D3: Alm's or Celica's Army(Myrmidon)
+00D4: Alm's or Celica's Army(Dread Fighter)
+00D5: Alm's or Celica's Army(Archer)
+00D6: Alm's or Celica's Army(Sniper)
+00D7: Alm's or Celica's Army(Bow Knight)
+00D8: Alm's or Celica's Army(Brigand)
+00D9: Alm's or Celica's Army(Revenant)
+00DA: Alm's or Celica's Army(Bonewalker)
+00DB: Alm's or Celica's Army(Lich)
+00DC: Alm's or Celica's Army(Gargoyle)
+00DD: Alm's or Celica's Army(Deathgoyle)
+00DE: Alm's or Celica's Army(Entombed)
+00DF: Alm's or Celica's Army(Mogall)
+00E0: Alm's or Celica's Army(Fiend)
+00E1: Alm's or Celica's Army(Witch)
+00E2: Alm's or Celica's Army(Witch)
+00E3: Alm's or Celica's Army(Necrodragon)
+00E4: Alm's or Celica's Army(Soldier)
+00E5: Alm's or Celica's Army(Knight)
+00E6: Alm's or Celica's Army(Baron)
+00E7: Alm's or Celica's Army(Cavalier)
+00E8: Alm's or Celica's Army(Paladin)
+00E9: Alm's or Celica's Army(Gold Knight)
+00EA: Alm's or Celica's Army(Sage)
+00EB: Alm's or Celica's Army(Arcanist)
+00EC: Alm's or Celica's Army(Arcanist)
+00ED: Alm's or Celica's Army(Cantor)
+00EE: Alm's or Celica's Army(Priestess)
+00EF: Alm's or Celica's Army(Pegasus Knight)
+00F0: Alm's or Celica's Army(Falcon Knight)
+00F1: Alm's or Celica's Army(Villager)
+00F2: Alm's or Celica's Army(Villager)
+00F3: Alm's or Celica's Army(Mercenary)
+00F4: Alm's or Celica's Army(Myrmidon)
+00F5: Alm's or Celica's Army(Dread Fighter)
+00F6: Alm's or Celica's Army(Brigand)
+00F7: Alm's or Celica's Army(Archer)
+00F8: Alm's or Celica's Army(Sniper)
+00F9: Alm's or Celica's Army(Bow Knight)
+00FA: Alm's or Celica's Army(Soldier)
+00FB: Alm's or Celica's Army(Knight)
+00FC: Alm's or Celica's Army(Baron)
+00FD: Alm's or Celica's Army(Cavalier)
+00FE: Alm's or Celica's Army(Falcon Knight)
+00FF: Alm's or Celica's Army(Gold Knight)
+0100: Alm's or Celica's Army(Sage)
+0101: Alm's or Celica's Army(Priestess)
+0102: Alm's or Celica's Army(Arcanist)
+0103: Alm's or Celica's Army(Cantor)
+0104: Alm's or Celica's Army(Gargoyle)
+0105: Alm's or Celica's Army(Deathgoyle)
+0106: Alm's or Celica's Army(Princess)
+0107: Alm's or Celica's Army(Mogall)
+0108: Alm's or Celica's Army(Mogall)
+0109: Alm's or Celica's Army(Revenant)
+010A: Alm's or Celica's Army(Revenant)
+010B: Alm's or Celica's Army(Entombed)
+010C: Alm's or Celica's Army(Entombed)
+010D: Illusory Hero(Lord)
+010E: Illusory Hero(Hero)
+010F: Illusory Hero(Lord)
+0110: Illusory Hero(Tactician)
+0111: Illusory Hero(Lord)
+0112: Illusory Hero(Lord)
+0113: Illusory Hero(Lord)
+0114: Alm's or Celica's Army(Arcanist)
+0115: Rudolf
+0116: Jedah
+0117: Alm's or Celica's Army(Fire Dragon)
+0118: Alm's or Celica's Army(Titan)
+0119: Alm's or Celica's Army(Garuda)
+011A: Alm's or Celica's Army(Guardian)
+011B: Alm's or Celica's Army(Vestal)
+011C: Alm's or Celica's Army(Fafnir)
+011D: Alm's or Celica's Army(Mage)
+011E: Alm's or Celica's Army(Mage)
+011F: Alm's or Celica's Army(Entombed)
+0120: Unknown(Villager)
+0121: Unknown(Villager)
+0122: Unknown(Villager)
+0123: Illusion(Revenant)
+0124: Illusion(Revenant)
+0125: Illusion(Bonewalker)
+0126: Illusion(Gargoyle)
+0127: Illusion(Witch)
+0128: Illusion(Necrodragon)
+0129: Illusion(Entombed)
+012A: Illusion(Lich)
+012B: Illusion(Deathgoyle)
+012C: Illusion(Witch)
+012D: Illusion(Fiend)
+012E: Illusion(White Dragon)

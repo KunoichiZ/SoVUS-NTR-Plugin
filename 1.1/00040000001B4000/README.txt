@@ -1,0 +1,138 @@
+=============================================
+#	Generated with Gateshark2NTR	    #
+=============================================
+
+=============================================
+#	  How to use this plugin	    #
+=============================================
+1- Press [Select] to shows up the menu
+--> You can navigate in the menu with the DPAD Key UP and DOWN
+--> Press A to activate / de-activate a cheat
+--> Press B to exit the menu and return to the game
+--> You can change the hotkey for showing up the menu by pressing [Start] in the menu
+--> You can adjust the speed of the cheats execution by pressing [Select] in the menu
+Tip:
+-- You can easily navigate in a spoiler with those keys:
+   --> DPAD Key Left: Go back to the upper line of the spoiler
+   --> DPAD Key Right: Go to the last line of the spoiler
+
+=============================================
+#	Cheats available in this plugin	    #
+=============================================
+- Change casual mode
+- Change classic mode
+- Change normal difficulty
+- Change hard difficulty
+- Max Renown
+- Can Get both Dean and Sonya
+- Even if you kill Zeke you can get Tatiana
+- Gold Coin 996
+- Silver Coin 9984
+- Bookmark does not disappear
+- Get Exp 100 After Defeat Enemy
+- Able to control enemy
+- Infinite Movement
+- Able to item trade with the enemy
+- Well does not wither
+- Anywhere starting position in preparation
+- Able to use convoy anyone
+- All status up by LV up
+- Inf Use Mira Gear
+- Infinite item usage
+- Instant Message
+- Run through monsters in 3D dungeons
+- Can Retreat from battle the first turn
+- Instant support conversations
+- Infnite HP
+- All class selectable by class change(Incl
+- Attck renge 100
+- Move Distance Max
+- On Map Can Teleport
+- All Support rank A
+- All Weapon equipment possible
+- Remove Characters(Hold R & Quit Order men
+- Quick Get Battle Skill
+- Battle Arts extension slot +8 v1.1
+- Battle Arts extension slot +8 v1.1
+- Battle Arts extension slot +8 v1.1
+- Battle Arts extension slot +8 v1.1
+- Battle Arts extension slot +8 v1.1
+- Battle Arts extension slot +8 v1.1
+- Battle Arts extension slot +8 v1.1
+- Recruit Brigand Boss(Hold L & Go to Order
+- Recruit Desaix(Hold L & Go to Order menu)
+- Recruit Slayde(Hold L & Go to Order menu)
+- Recruit Barth(Hold L & Go to Order menu)
+- Recruit Zakson(Hold L & Go to Order menu)
+- Recruit Desaix(Hold L & Go to Order menu)
+- Recruit Lawson(Hold L & Go to Order menu)
+- Recruit Gazelle(Hold L & Go to Order menu
+- Recruit Tatarrah(Hold L & Go to Order men
+- Recruit Delthea(Hypnotized)(Hold L & Go t
+- Recruit Fernand(Hold L & Go to Order menu
+- Recruit Berkut(Hold L & Go to Order menu)
+- Recruit Fernand(Hold L & Go to Order menu
+- Recruit Garth(Hold L & Go to Order menu)
+- Recruit Wolff(Hold L & Go to Order menu)
+- Recruit Deen(Hold L & Go to Order menu)
+- Recruit Sonya(Hold L & Go to Order menu)
+- Recruit Grieth(Hold L & Go to Order menu)
+- Recruit Blake(Hold L & Go to Order menu)
+- Recruit Mikhail(Hold L & Go to Order menu
+- Recruit (Gold Knight)(Hold L & Go to Orde
+- Recruit Xaizor(Hold L & Go to Order menu)
+- Recruit Marla(Hold L & Go to Order menu)
+- Recruit Nuibaba(Hold L & Go to Order menu
+- Recruit Zeke(Hold L & Go to Order menu)
+- Recruit Jerome(Hold L & Go to Order menu)
+- Recruit Magnus(Hold L & Go to Order menu)
+- Recruit Hestia(Hold L & Go to Order menu)
+- Recruit Mueller(Hold L & Go to Order menu
+- Recruit Rudolf(Hold L & Go to Order menu)
+- Recruit Berkut(Hold L & Go to Order menu)
+- Recruit Fernand(Hold L & Go to Order menu
+- Recruit Slayde(Hold L & Go to Order menu)
+- Recruit Garcia(Hold L & Go to Order menu)
+- Recruit Dolth(Hold L & Go to Order menu)
+- Recruit Jamil(Hold L & Go to Order menu)
+- Recruit Jedah(Hold L & Go to Order menu)
+- Recruit Duma(Hold L & Go to Order menu)
+- Recruit Aurum(Hold L & Go to Order menu)
+- Recruit Argentum(Hold L & Go to Order men
+- Recruit Gham(Hold L & Go to Order menu)
+- Recruit Cerberus(Hold L & Go to Order men
+- Recruit Naberius(Hold L & Go to Order men
+- Recruit Hades(Hold L & Go to Order menu)
+- Recruit Masked Knight(Hold L & Go to Orde
+- Recruit Rudolf(Hold L & Go to Order menu)
+- Recruit Jedah(Hold L & Go to Order menu)
+- Recruit Berkut(Final Battle)(Hold L & Go 
+- Recruit Rinea(Hold L & Go to Order menu)
+- Recruit Berkut(Final Battle)(Hold L & Go 
+- Recruit Rinea(Hold L & Go to Order menu)
+- Recruit Marla(Hold L & Go to Order menu)
+- Recruit Hestia(Hold L & Go to Order menu)
+- Recruit The Creation(Hold L & Go to Order
+- Recruit Alm(Boy)(Hold L & Go to Order men
+- Recruit Celica(Girl)(Hold L & Go to Order
+- Recruit Gray(Boy)(Hold L & Go to Order me
+- Recruit Tobin(Boy)(Hold L & Go to Order m
+- Recruit Kliff(Boy)(Hold L & Go to Order m
+- Recruit Faye(Girl)(Hold L & Go to Order m
+- Recruit Mycen(Hold L & Go to Order menu)
+- Recruit Slayde(Hold L & Go to Order menu)
+- Recruit Illusory Hero(Lord)(Hold L & Go t
+- Recruit Illusory Hero(Hero)(Hold L & Go t
+- Recruit Illusory Hero(Lord)(Hold L & Go t
+- Recruit Illusory Hero(Tactician)(Hold L &
+- Recruit Illusory Hero(Lord)(Hold L & Go t
+- Recruit Illusory Hero(Lord)(Hold L & Go t
+- Recruit Illusory Hero(Lord)(Hold L & Go t
+- Max HP
+- Max ATK
+- Max TEC
+- Max SPD
+- Max LUC
+- Max DEF
+- Max RES
+- Max MOV

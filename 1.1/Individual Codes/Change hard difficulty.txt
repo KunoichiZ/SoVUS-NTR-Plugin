@@ -1,0 +1,6 @@
+[Change hard difficulty]
+B05C5D00 00000000
+2000003D 00000001
+D2000000 00000000
+{The strength of the enemies already on the map does not change
+Only the new appear enemies will change strength}

@@ -1,0 +1,2 @@
+[Able to item trade with the enemy]
+00334AD8 E1500000
