@@ -1,0 +1,3 @@
+[All status up by LV up]
+00357724 E3A00001
+{(Growth Rate must be Large than 1%)}

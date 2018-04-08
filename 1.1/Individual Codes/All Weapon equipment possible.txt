@@ -1,0 +1,3 @@
+[All Weapon equipment possible]
+004506F4 E3A00001
+004506F8 E12FFF1E

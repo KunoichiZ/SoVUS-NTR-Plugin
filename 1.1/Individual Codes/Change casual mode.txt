@@ -1,0 +1,9 @@
+[Change casual mode]
+B05C5D00 00000000
+90000038 FF7F0000
+DA000000 00000038
+D4000000 00000080
+D7000000 00000038
+D2000000 00000000
+{This code can be used only GateWay3DS.
+Can not be used with the NTR Client or NTR Client with Gateshark or Gateshark2NTR or Citra}

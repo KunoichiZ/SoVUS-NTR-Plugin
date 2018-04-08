@@ -1,0 +1,23 @@
+[On Map Can Teleport]
+E0527B80 00000068
+B50F7B00 48152200
+69C06800 D1002808
+0A002202 D1002808
+2A002201 4810D01D
+23546800 2B065CC3
+2201D100 6809490D
+29006849 203DD011
+28005C08 3A01D100
+D0012A00 E7F46EC9
+64089819 6488981B
+D1022B06 23002202
+BD0FE7E8 005AB9A4
+005C5D00 005E9280
+0036F3F0 FA06E1E2
+{Press Y or START at the destination
+Act 1,5 (Y:Alm, START:Don't use)
+Act 2 (Y:Celica, START:Don't use)
+Act 3,4 (Y:Alm, START:Celica)
+Act 6 (Y or START:Alm & Celica)
+*Please enable this code on the title screen
+*When change from disabled to enable this code on the map it freezes.}

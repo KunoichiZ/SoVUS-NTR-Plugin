@@ -1,0 +1,2 @@
+[Quick Get Battle Skill]
+004257AC E3A020FF
